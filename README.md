@@ -14,3 +14,7 @@ You can log error and continue.
 ## console.error/log
 console.log write to standard out. 
 console.error write to standard error.
+
+## Error stack.
+Log top is the deepest code where error occurred.
+Log bottom is the calling outer function code.
